@@ -22,5 +22,5 @@ GaloisFields = "1.2"
 LineSearches = "7.4"
 Optim = "1.11"
 Zygote = "0.7"
-
+Registrator = "1.0.0"
 
